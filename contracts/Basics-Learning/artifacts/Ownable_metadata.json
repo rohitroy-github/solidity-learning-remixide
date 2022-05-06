@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.6.1+commit.e6f7d5a4"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "owner",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Basics-Learning/SecretHolder.sol": "Ownable"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Basics-Learning/SecretHolder.sol": {
+			"keccak256": "0xed496e860b47f14071afab4adccc0c52af1b07151b6b9d7878fa2664a7c6d79b",
+			"urls": [
+				"bzz-raw://bc90fbcc53f3dfc49d947b973d05c768ee7cbe2dd23cdc9604212b730a0a037c",
+				"dweb:/ipfs/QmWAYobFfzShuTALsZLX54tAwKiV4UTmMrwYdbgpBX2q6w"
+			]
+		}
+	},
+	"version": 1
+}
